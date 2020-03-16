@@ -1,0 +1,4 @@
+Jim 100
+Amy 60
+Simpson 30
+Nike 120
